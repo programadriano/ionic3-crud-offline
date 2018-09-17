@@ -1,0 +1,7 @@
+{
+  "name": "navigationApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
